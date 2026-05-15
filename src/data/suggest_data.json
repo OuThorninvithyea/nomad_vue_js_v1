@@ -1,0 +1,15 @@
+{
+  "label": "nomad.com suggestion",
+  "image": "/images/phnopenh.webp",
+  "imageAlt": "Porto",
+  "rank": 1,
+  "speed": 65,
+  "country": "Portugal",
+  "city": "Porto",
+  "weatherEmoji": "\ud83c\udf24\ufe0f",
+  "temp": 19,
+  "tempEmoji": "\ud83d\ude0a",
+  "aqi": 22,
+  "aqiEmoji": "\ud83d\ude37",
+  "cost": "$2200/mo"
+}
